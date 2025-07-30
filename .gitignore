@@ -18,10 +18,8 @@
 
 # Maven
 target/
-.mvn/
-!/.mvn/wrapper/maven-wrapper.jar
-mvnw
-mvnw.cmd
+.mvn/wrapper/maven-wrapper.jar
+
 
 # IntelliJ IDEA
 .idea
