@@ -13,8 +13,6 @@
 
 # Package Files #
 =======
-# Compiled class files
-*.class
 
 # Maven
 target/
@@ -40,7 +38,6 @@ target/
 application.properties
 application.yml
 .env
-*.log
 HELP.md
 
 # NetBeans
@@ -58,12 +55,6 @@ build/
 # VS Code
 .vscode/
 
-# BlueJ
-*.ctxt
-
-# J2ME
-.mtj.tmp/
-
 # Package Files
 >>>>>>> 195ad13 (Add inventory management system)
 *.jar
@@ -74,10 +65,6 @@ build/
 *.tar.gz
 *.rar
 
-<<<<<<< HEAD
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-=======
-# JVM crash logs
->>>>>>> 195ad13 (Add inventory management system)
 hs_err_pid*
 replay_pid*
